@@ -118,9 +118,9 @@ python scripts/diagnostic_validator.py
 
 Detailed methodology and dataset documentation:
 
-* **[Datasheet for the BBO Dataset](docs/BBO_Datasheet.md)** - Complete dataset documentation including data characteristics, sampling biases, collection process, and known limitations
+* **[Datasheet for the BBO Dataset](BBO_Datasheet.md)** - Complete dataset documentation including data characteristics, sampling biases, collection process, and known limitations
 
-* **[Model Card for BBO Optimization Approach](docs/BBO_Model_Card.md)** - Methodology overview, intended use cases, performance evaluation, ethical considerations, and critical limitations
+* **[Model Card for BBO Optimization Approach](BBO_Model_Card.md)** - Methodology overview, intended use cases, performance evaluation, ethical considerations, and critical limitations
 
 
 ---
